@@ -7,5 +7,7 @@ int main()
 	cout << "Enter a character: ";
 	cin >> c;
 	cout << "ASCII Value of " << c << " is " << int(c);
+
+	system("pause");
 	return 0;
 }
